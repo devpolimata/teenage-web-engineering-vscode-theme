@@ -1,0 +1,22 @@
+{
+  "name": "teenage-web-engineering-vscode-theme",
+  "displayName": "Teenage Web Engineering Theme",
+  "description": "Aesthetic vectors nice colors",
+  "version": "0.0.4",
+  "publisher": "Polimata",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Teenage Web Engineering",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Teenage Web Engineering-color-theme.json"
+      }
+    ]
+  }
+}
