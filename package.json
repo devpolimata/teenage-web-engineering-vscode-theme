@@ -13,6 +13,7 @@
     "dark theme",
     "teenage engineering"
   ],
+  "icon": "img/logo.png",
   "engines": {
     "vscode": "^1.96.0"
   },
