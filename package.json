@@ -1,12 +1,12 @@
 {
   "name": "teenage-web-engineering-vscode-theme",
   "displayName": "Teenage Web Engineering Theme",
-  "description": "Aesthetic vectors nice colors",
+  "description": "Aesthetic vectors and nice colors",
   "repository": {
     "type": "git",
     "url": "https://github.com/devpolimata/teenage-web-engineering-vscode-theme"
   },
-  "version": "0.0.6",
+  "version": "0.0.7",
   "publisher": "Polimata",
   "keywords": [
     "theme",
